@@ -1,5 +1,6 @@
 import csv
 from datetime import datetime
+
 class csv_handler():
     def __init__(self, path):
         def populate_data():
